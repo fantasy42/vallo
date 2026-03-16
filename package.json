@@ -57,7 +57,7 @@
     "lint:package": "publint",
     "typecheck": "tsc --noEmit",
     "prepublishOnly": "bun run typecheck && bun run build && bun run test && bun run lint:package",
-    "release": "bumpp && npm publish"
+    "release": "bumpp"
   },
   "devDependencies": {
     "@types/bun": "^1.3.10",
