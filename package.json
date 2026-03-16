@@ -1,5 +1,5 @@
 {
-  "name": "vallo",
+  "name": "@fantasy42/vallo",
   "type": "module",
   "version": "0.1.0",
   "description": "Lightweight validation engine for dynamic strings and reserved identifiers.",
