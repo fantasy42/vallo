@@ -1,7 +1,7 @@
 {
   "name": "@fantasy42/vallo",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight validation engine for dynamic strings and reserved identifiers.",
   "author": "Fantasy <fntsy42@pm.me>",
   "license": "MIT",
